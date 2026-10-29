@@ -1,4 +1,4 @@
-# Alberta’s Capacity versus Income — Complete Research Package (Final)
+# Alberta’s Capacity versus Income
 
 **Williams Economic Consulting** · October 2026  
 **Author:** Marcus Williams
@@ -11,7 +11,7 @@ Growth remains the central scenario for 2026 (forecasts cluster at 2.3–2.6%), 
 ### Primary research note
 - `Alberta_Capacity_versus_Income.pdf` / `.md`
 
-### Technical evaluation (all residual gaps addressed)
+### Technical evaluation 
 - `technical/Technical_Evaluation_Note.pdf` / `.md`
   - Three-channel signal (volume + price + non-energy activity proxy)
   - Rank evaluation and directional accuracy
@@ -26,11 +26,3 @@ Growth remains the central scenario for 2026 (forecasts cluster at 2.3–2.6%), 
 ### Reproducible update capability
 - `scripts/update_dashboard.py` — refresh indicator dashboard and qualitative reading
 - `data/` — historical evaluation, indicator dashboard, forecast comparison, extended evaluation
-
-### Supporting
-- LinkedIn post, methodology, sources
-
-## How to refresh
-```bash
-python scripts/update_dashboard.py
-```
