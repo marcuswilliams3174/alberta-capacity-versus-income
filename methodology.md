@@ -1,0 +1,3 @@
+# Methodology Note
+
+This note is a transparent public-data synthesis organized around the distinction between physical capacity (volume) and the income earned on that capacity (prices and related returns). All series are taken from official published sources: Statistics Canada provincial GDP by industry (May 2026 release), Alberta Energy Regulator 2026 Outlook, Alberta Activity Index, and the most recent published outlooks from the Government of Alberta, ATB Economics and TD Economics. No estimated econometric model is presented. Forecast figures should be verified against subsequent releases.
